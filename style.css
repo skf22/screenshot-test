@@ -16,7 +16,7 @@ body {
   color: #fff;
   font-weight: 700;
   text-align: center;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .title {
@@ -32,8 +32,8 @@ body {
 
 .sub-text {
   font-size: 1.75rem;
-  margin: 0.75em 0 0em;
-  width: 60em;
+  margin: 0.15em 0 0em;
+  width: 50em;
   line-height: 1.4;
 }
 
@@ -65,7 +65,7 @@ img:hover {
 
 .tag {
   margin: 1em 0 0;
-  padding: 0.55em 0;
+  padding: 0.55em 0 1em;
   width: 100%;
   background: black;
   justify-content: center;
